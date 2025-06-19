@@ -28,8 +28,7 @@ Este repositorio contiene tres simuladores visuales de ondas desarrollados en Py
 2. Clona este repositorio:
 
 ## bash
-git clone https://github.com/tu-usuario/simulador-ondas.git
-cd simulador-ondas
+git clone https://github.com/PID-050-2023/simulador_ondas/tree/main/codigo_fuente
 
 ## Instala las dependencias necesarias:
 pip install numpy matplotlib
